@@ -1,17 +1,22 @@
 .intro {
   color: red;
+  text-align: center
 }
 
-h2.intro {
+.intro h2{
   font-weight: bolder;
-  text-align: center;
   font-size: 60px;
 }
 
-p.intro {
+.intro p{
   font-family:cursive;
 }
 
-img.intro {
+.intro img{
   float: left;
+}
+
+.highlight {
+  font-style: italic;
+  background: #3CA9A9;
 }
