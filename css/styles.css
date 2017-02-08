@@ -1,0 +1,17 @@
+.intro {
+  color: red;
+}
+
+h2.intro {
+  font-weight: bolder;
+  text-align: center;
+  font-size: 60px;
+}
+
+p.intro {
+  font-family:cursive;
+}
+
+img.intro {
+  float: left;
+}
